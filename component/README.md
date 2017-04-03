@@ -1,3 +1,2 @@
-# Component Component
-
-Component Component
+# react-responcy
+A React component for responsive source calls.
